@@ -47,3 +47,4 @@ NewsSum Bot is a Telegram bot that delivers summarized news articles to users. I
 2. In Telegram, start a chat with your bot and use the following commands:
    - `/start`: Initializes the bot
    - `/news`: Fetches and summarizes the latest news article
+   - `/settings`: Changes the country and category
